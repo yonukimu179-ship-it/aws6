@@ -1,0 +1,7 @@
+node_modules/
+*.log
+infrastructure/cdk/cdk.out/
+infrastructure/cdk/*.js
+infrastructure/cdk/*.d.ts
+.env
+.DS_Store
