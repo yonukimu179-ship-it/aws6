@@ -12,7 +12,7 @@ export const handler = async (event) => {
     body: JSON.stringify({
       message: "Hello from GitHub Actions!! (Updated)",
       timestamp: new Date().toISOString(),
-      version: "1.0.0"
+      version: "1.1.0"
     })
   };
 };
